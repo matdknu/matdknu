@@ -3,8 +3,10 @@
 Me llamo Matías Deneken y estoy volviéndome más activo en GitHub
 
 - 📣 Trabajo en el Centro de Estudios Interculturales e Indígenas  | Coordinador de Encuesta Longitudinal de Relaciones Interculturales (ELRI)
-- 🎓 Obtuve la Beca Magíster Nacional (2022) entregado por el Ministerio de Ciencia de Chile y el Premio Universidad de Concepción (2021) por haber sido el mejor egresado de mi promoción.
+- 🏅 Obtuve la Beca Magíster Nacional (2022) entregado por el Ministerio de Ciencia de Chile y el Premio Universidad de Concepción (2021) por haber sido el mejor egresado de mi promoción.
+- 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas
 - 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
+- 👨🏻‍💻 Usuario de R
 - ⚡ Mis hobbies son hacer audiolibros y documentar la cotidianeidad  
 - 😄 Pronombres: Él
 
