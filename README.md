@@ -1,3 +1,6 @@
+
+[![matdknu twitter](https://img.shields.io/badge/Twitter-@MatiasDnkn-00aced.svg?style=flat&logo=twitter)](https://twitter.com/MatiasDnkn)
+
 ### Hola a todxs  👋
 
 Me llamo Matías Deneken y estoy volviéndome más activo en GitHub
