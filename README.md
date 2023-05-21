@@ -11,7 +11,6 @@ Me llamo Matías Deneken y estoy volviéndome más activo en GitHub
 - 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
 - 👨🏻‍💻 Usuario de R
 - ⚡ Mis hobbies son hacer audiolibros y documentar la cotidianeidad  
-- 😄 Pronombres: Él
 
 ### Hello everyone 👋
 
@@ -21,5 +20,5 @@ My name is Matias Deneken and I'm getting more active on GitHub.
 - 🎓 I obtained the National Master Scholarship (2022) given by the Ministry of Science of Chile and the Universidad de Concepción Award (2021) for being the best graduate of my class.
 - 📊 Currently my research agenda is focused on the history of Chilean sociology and I use quantitative methods in Social Sciences.
 - ⚡ My hobbies are making audiobooks and documenting everyday life.  
-- 😄 Pronouns: He
+
 
