@@ -3,12 +3,12 @@
 
 ### Hola a todxs  👋
 
-Me llamo Matías Deneken, criado y nacido en las periferias de Santiago de Chile, y estoy volviéndome más activo en GitHub.
+Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Chile. Un poco de mí:
 
 - Soy sociólogo de formación. Poseo un Magíster en Sociología por la Pontificia Universidad Católica de Chile y soy candidato a Magíster en Ciencia de Datos por la Universidad de Concepción - Chile.
 - 📣 Trabajo en el Centro de Estudios Interculturales e Indígenas  | Coordinador de Encuesta Longitudinal de Relaciones Interculturales (ELRI)
-- 🏅 Obtuve la Beca Magíster Nacional (2022) entregado por el Ministerio de Ciencia de Chile y el Premio Universidad de Concepción (2021) por haber sido el mejor egresado de mi promoción.
-- 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas
+- 🏅 Obtuve la Beca Magíster Nacional (2022) entregado por el Ministerio de Ciencia de Chile y el Premio Universidad de Concepción (2022) por haber sido el mejor egresado de mi promoción.
+- 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas.
 - 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
 - 👨🏻‍💻 Usuario de R
 - ⚡ Mis hobbies son hacer audiolibros y documentar la cotidianeidad  
