@@ -7,10 +7,10 @@ Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Ch
 
 - Soy sociólogo de formación. Poseo un Magíster en Sociología por la Pontificia Universidad Católica de Chile y soy candidato a Magíster en Ciencia de Datos por la Universidad de Concepción - Chile.
 - 📣 Trabajo en el Centro de Estudios Interculturales e Indígenas  | Coordinador de Encuesta Longitudinal de Relaciones Interculturales (ELRI)
-- 🏅 Obtuve la Beca Magíster Nacional (2022) entregado por el Ministerio de Ciencia de Chile y el Premio Universidad de Concepción (2022) por haber sido el mejor egresado de mi promoción.
+- 🏅 Obtuve el Premio de Excelencia Acádemica de Carrera de Sociología (2021), Premio Universidad de Concepción (2022) y Beca del Ministerio de Ciencia - ANID Magíster Nacional (2022).
 - 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas.
 - 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
-- 👨🏻‍💻 Usuario de R
+- 👨🏻‍💻 Usuario de R Python
 - ⚡ Mis hobbies son hacer audiolibros y documentar la cotidianeidad  
 
 ### Hello everyone 👋
