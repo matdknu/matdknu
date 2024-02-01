@@ -17,9 +17,13 @@ Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Ch
 
 My name is Matias Deneken and I'm getting more active on GitHub.
 
-- 📣 I work at the Center for Intercultural and Indigenous Studies | Longitudinal Survey of Intercultural Relations (ELRI) Coordinator.
-- 🎓 I obtained the National Master Scholarship (2022) given by the Ministry of Science of Chile and the Universidad de Concepción Award (2021) for being the best graduate of my class.
-- 📊 Currently my research agenda is focused on the history of Chilean sociology and I use quantitative methods in Social Sciences.
-- ⚡ My hobbies are making audiobooks and documenting everyday life.  
+
+I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile, and I am a candidate for a Master's degree in Data Science at the University of Concepción - Chile.
+📣 I work at the Center for Intercultural and Indigenous Studies | Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI).
+🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and a Scholarship from the Ministry of Science - ANID National Master's Program (2022).
+🎓 I have worked as a Research Assistant and Teaching Assistant in various areas.
+📊 Currently, my research agenda is focused on the history of Chilean sociology, using quantitative methods in the Social Sciences.
+👨🏻‍💻 I am a user of R and Python.
+⚡ I practice various hobbies.
 
 
