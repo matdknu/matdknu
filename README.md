@@ -10,8 +10,8 @@ Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Ch
 - 🏅 Obtuve el Premio de Excelencia Acádemica de Carrera de Sociología (2021), Premio Universidad de Concepción (2022) y Beca del Ministerio de Ciencia - ANID Magíster Nacional (2022).
 - 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas.
 - 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
-- 👨🏻‍💻 Usuario de R Python
-- ⚡ Mis hobbies son hacer audiolibros y documentar la cotidianeidad  
+- 👨🏻‍💻 Usuario de R y Python
+- ⚡ Prácticas diferentes hobbies.   
 
 ### Hello everyone 👋
 
