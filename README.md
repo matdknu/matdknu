@@ -10,21 +10,22 @@ Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Ch
 - 👮🏻‍♀️ Tambien soy asistente de investigación en el Observatorio de Violencia y Legitimidad Social (OLES)
 - 🏅 Obtuve el Premio de Excelencia Acádemica de Carrera de Sociología (2021), Premio Universidad de Concepción (2022) y Beca del Ministerio de Ciencia - ANID Magíster Nacional (2022).
 - 🎓 Me he desempeñado como Asistente de Investigación y Ayudante de Docencia en diferentes áreas.
-- 📊 Actualmente mi agenda investigativa está centrada en la historia de la sociología chilena y uso métodos cuantitativos en Ciencias Sociales
+- 📊 Actualmente mi agenda investigativa está centrada en etnicidades, legitimación de la violencia e historia de las ciencias sociales en Chile
 - 👨🏻‍💻 Usuario de R y Python
-- ⚡ Prácticas diferentes hobbies.   
+- ⚡ Practico diferentes hobbies.   
 
 ### Hello everyone 👋
 
 My name is Matias Deneken and I'm getting more active on GitHub.
 
 
-I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile, and I am a candidate for a Master's degree in Data Science at the University of Concepción - Chile.
-📣 I work at the Center for Intercultural and Indigenous Studies | Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI).
-🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and a Scholarship from the Ministry of Science - ANID National Master's Program (2022).
-🎓 I have worked as a Research Assistant and Teaching Assistant in various areas.
-📊 Currently, my research agenda is focused on the history of Chilean sociology, using quantitative methods in the Social Sciences.
-👨🏻‍💻 I am a user of R and Python.
-⚡ I practice various hobbies.
+🤓 I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile and I am a candidate for a Master's degree in Data Science from the University of Concepción - Chile.
+📣 I work at the Center for Intercultural and Indigenous Studies as the Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI)
+👮🏻‍♀️ I am also a research assistant at the Observatory of Violence and Social Legitimacy (OLES)
+🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and the National Master's Scholarship from the Ministry of Science - ANID (2022)
+🎓 I have worked as a Research Assistant and Teaching Assistant in various areas
+📊 Currently, my research agenda is focused on ethnicities, legitimization of violence, and the history of social sciences in Chile
+👨🏻‍💻 I am proficient in R and Python.
+⚡ I practice different hobbies
 
 
