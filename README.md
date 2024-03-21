@@ -20,10 +20,10 @@ My name is Matias Deneken and I'm getting more active on GitHub.
 
 
 -🤓 I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile and I am a candidate for a Master's degree in Data Science from the University of Concepción - Chile.
--📣 I work at the Center for Intercultural and Indigenous Studies as the Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI)
--👮🏻‍♀️ I am also a research assistant at the Observatory of Violence and Social Legitimacy (OLES)
--🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and the National Master's Scholarship from the Ministry of Science - ANID (2022)
--🎓 I have worked as a Research Assistant and Teaching Assistant in various areas
+- 📣 I work at the Center for Intercultural and Indigenous Studies as the Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI)
+- 👮🏻‍♀️ I am also a research assistant at the Observatory of Violence and Social Legitimacy (OLES)
+- 🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and the National Master's Scholarship from the Ministry of Science - ANID (2022)
+- 🎓 I have worked as a Research Assistant and Teaching Assistant in various areas
 - 📊 Currently, my research agenda is focused on ethnicities, legitimization of violence, and the history of social sciences in Chile
 - 👨🏻‍💻 I am proficient in R and Python.
 - ⚡ I practice different hobbies
