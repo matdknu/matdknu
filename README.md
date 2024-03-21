@@ -19,7 +19,7 @@ Me llamo Matías Deneken, provengo de la comuna de Puente Alto de Santiago de Ch
 My name is Matias Deneken and I'm getting more active on GitHub.
 
 
--🤓 I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile and I am a candidate for a Master's degree in Data Science from the University of Concepción - Chile.
+- 🤓 I am a trained sociologist. I hold a Master's degree in Sociology from the Pontifical Catholic University of Chile and I am a candidate for a Master's degree in Data Science from the University of Concepción - Chile.
 - 📣 I work at the Center for Intercultural and Indigenous Studies as the Coordinator of the Longitudinal Survey of Intercultural Relations (ELRI)
 - 👮🏻‍♀️ I am also a research assistant at the Observatory of Violence and Social Legitimacy (OLES)
 - 🏅 I received the Academic Excellence Award in Sociology (2021), the University of Concepción Award (2022), and the National Master's Scholarship from the Ministry of Science - ANID (2022)
