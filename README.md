@@ -20,7 +20,7 @@ I am also a Fulbright scholar and will start my PhD in approximately 2027 🔜�
 
 Hola a todxs!
 
-Mi nombre es Matías Deneken, soy sociologo, magíster en sociología y candidato a magíster en Ciencia de Datos e Innovacion. Actualmente me encuentra trabajando en el área de las relaciones intergrupales, justificacion de la violencia y discurso político. A lo largo de mi experiencia, he trabajado a diferentes niveles de análisis de datos y fuentes de informacion, tales como la minería de texto y encuestas longitudinales. Al día de hoy, me estoy especializandooslos en procesamiento de lenguaje natural y diseño de experimentos. 
+Mi nombre es Matías Deneken, soy sociologo, magíster en sociología y candidato a magíster en Ciencia de Datos e Innovacion. Actualmente me encuentra trabajando en el área de las relaciones intergrupales, justificacion de la violencia y discurso político. En el pasado me interesé en la historia de las ciencias sociales en Chile. A lo largo de mi experiencia, he trabajado a diferentes niveles de análisis de datos y fuentes de informacion, tales como la minería de texto y encuestas longitudinales. Al día de hoy, me estoy especializandooslos en procesamiento de lenguaje natural y diseño de experimentos. 
 
 En la actualidad, soy becario Fulbright e iniciaré mi doctorado en 2027, apróximandamente. Idealmente en Psicologia Social o Ciencias Sociales Computationales. 
 
