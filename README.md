@@ -8,7 +8,7 @@ Hello everybody 👋
 Here you will find my workplace (sometimes public or private) 💻
 
 My name is Matias Deneken, I am a sociologist, Master in Sociology and Master in Data Science and Innovation. 
-I am currently working in the areas of intercultural relations,  justification of social violence and political discourse. Throughout my work experience, I have been in charge of handling, processing and analyzing different sources of information, from text mining to longitudinal surveys. Currently, I am specializing in natural language processing and design of experiments.
+I am currently working in the areas of intercultural relations,  justification of social violence and political discourse. Throughout my work experience, I have been in charge of handling, processing and analyzing different sources of information, from text mining to longitudinal surveys.
 
 My areas of interest are social psychology and computational social science. 
 
