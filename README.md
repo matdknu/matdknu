@@ -24,3 +24,5 @@ I am also a Fulbright scholar and will start my PhD in approximately 2027 ğŸ”œğŸ
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
  
 </p>
+
+https://sociedata.netlify.app
