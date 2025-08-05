@@ -14,8 +14,6 @@ My areas of interest are social psychology and computational social science.
 
 I am a user of the R programming language and Python 🐍.
 
-I am also a Fulbright scholar and will start my PhD in approximately 2027 🔜🇺🇸
-
 ## 💻 Languages / Frameworks
 
 <p align="left">
