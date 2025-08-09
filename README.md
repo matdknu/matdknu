@@ -23,4 +23,4 @@ I am a user of the R programming language and Python 🐍.
  
 </p>
 
-https://sociedata.netlify.app
+https://sociedata.netlify.app [Project]
