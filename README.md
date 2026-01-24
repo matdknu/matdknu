@@ -1,19 +1,21 @@
 ## Hello!
-
 ![](https://komarev.com/ghpvc/?username=matdknu&style=flat-square&theme=tokyonight)
-
 
 Hello everybody 👋
 
 Here you will find my workplace (sometimes public or private) 💻
 
-My name is Matias Deneken, I am a sociologist, Master in Sociology and Master in Data Science and Innovation. 
-I am currently working in the areas of intercultural relations,  justification of social violence and political discourse. Throughout my work experience, I have been in charge of handling, processing and analyzing different sources of information, from text mining to longitudinal surveys.
+My name is Matias Deneken, I am a sociologist, Master in Sociology and Master in Data Science. 
+
+I am currently working in the areas of intercultural relations, justification of social violence and political discourse. Throughout my work experience, I have been in charge of handling, processing and analyzing different sources of information, from text mining to longitudinal surveys.
 
 My areas of interest are social psychology and computational social science. 
 
 I am a user of the R programming language and Python 🐍.
 
+Visit my website: [matdknu.github.io](https://matdknu.github.io)
+
+I am developing a new initiative, would you like to know about it? [methodolab.com](https://methodolab.com) [Project]
 ## 💻 Languages / Frameworks
 
 <p align="left">
@@ -23,4 +25,4 @@ I am a user of the R programming language and Python 🐍.
  
 </p>
 
-methodolab.com [Project]
+
