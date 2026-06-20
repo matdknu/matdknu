@@ -13,7 +13,7 @@ My areas of interest are social psychology and computational social science.
 
 I am a user of the R programming language and Python 🐍.
 
-Visit my website: [matdknu.github.io](https://matdknu.github.io)
+Visit my website: [deneken.me](https://matdknu.github.io)
 
 I am developing a new initiative, would you like to know about it? [methodolab.com](https://methodolab.com) [Project]
 ## 💻 Languages / Frameworks
