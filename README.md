@@ -3,7 +3,7 @@
 
 Hello everybody 👋
 My name is Matias Deneken, I am a sociologist, Master in Sociology and Master in Data Science. 
-My areas of interest are social psychology and computational social science. 
+My areas of interest are violence justification, text as data and politics in Latin America.
 
 I am a user of the R programming language and Python 🐍.
 
