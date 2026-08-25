@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=matdknu&style=flat-square&theme=tokyonight)
 
 Hello everybody 👋
-My name is Matias Deneken, I am a sociologist, Master in Sociology and Master in Data Science. 
+My name is Matias Deneken.
 My areas of interest are violence justification, text as data and politics in Latin America.
 
 I am a user of the R programming language and Python 🐍.
