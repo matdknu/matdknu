@@ -15,21 +15,6 @@ I'm a **sociologist and computational social scientist**, currently a **PhD cand
 
 ## 🧰 Toolkit
 
-<table><tr>
-  <td><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/></a></td>
-  <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a></td>
-  <td><a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/stata/1A5F7A" alt="stata" width="40" height="40"/></a></td>
-  <td><a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/></a></td>
-  <td><a href="https://quarto.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/quarto/39729E" alt="quarto" width="40" height="40"/></a></td>
-  <td><a href="https://positron.posit.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/posit/447099" alt="positron" width="40" height="40"/></a></td>
-  <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-  <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
-  <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/></a></td>
-  <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a></td>
-  <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a></td>
-  <td><a href="https://www.zotero.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zotero/CC2936" alt="zotero" width="40" height="40"/></a></td>
-</tr></table>
-
 <p align="left">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
