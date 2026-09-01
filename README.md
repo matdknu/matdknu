@@ -55,5 +55,4 @@ I'm a **sociologist and computational social scientist**, currently a **PhD cand
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matdknu&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matdknu&theme=tokyonight&utcOffset=0)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matdknu&theme=tokyonight)
