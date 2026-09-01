@@ -40,9 +40,7 @@ I'm a **sociologist and computational social scientist**, currently a **PhD cand
 
 ## 🌱 Currently learning
 
-- Bayesian hierarchical models for multi-level discourse data
 - Large language models for annotation and framing detection
-- Reproducible research infrastructure with Quarto & `targets`
 - Empirical calibration and validation of agent-based models
 
 ---
