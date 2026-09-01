@@ -16,6 +16,7 @@ I am developing a new initiative, would you like to know about it? [methodolab.c
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img alt="Positron" src="https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white" />
   <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1A1A1A?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-1F77B4?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
