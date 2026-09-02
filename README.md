@@ -19,21 +19,12 @@ I'm a **sociologist and computational social scientist**, currently a **PhD cand
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Stata" src="https://img.shields.io/badge/Stata-1A5F7A?style=for-the-badge&logo=stata&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" />
-  <img alt="Positron" src="https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
   <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-1F77B4?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1A1A1A?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="quanteda" src="https://img.shields.io/badge/quanteda-2C3E50?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-6B8E23?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
-
-
-
 ![Discourse diffusion ABM](assets/discourse_diffusion.gif)
 
 ---
@@ -45,12 +36,11 @@ I'm a **sociologist and computational social scientist**, currently a **PhD cand
 
 ---
 
-💬 **Ask me about** agent-based modelling · text as data & NLP · political discourse · causal inference · longitudinal survey design · web scraping · social networks · computational history · open science
+💬 **Ask me about** agent-based modelling · text as data & NLP · political discourse · causal inference · longitudinal survey design 
 
 📫 **Reach me at** m.deneken@uc.cl
 
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matdknu&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matdknu&theme=tokyonight)
