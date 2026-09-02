@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/m.deneken@uc.cl-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:m.deneken@uc.cl)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 
-I'm a **sociologist and computational social scientist**, currently a **PhD candidate in Computational Social Science at the London School of Economics (LSE)**, funded by an ANID International Doctoral Scholarship. I hold an MSc in Data Science and Innovation  and an MA in Sociology.
+I'm a **sociologist and computational social scientist**, currently a **PhD Student in Computational Social Science at the London School of Economics (LSE)**, funded by an ANID International Doctoral Scholarship. I hold an MSc in Data Science and Innovation  and an MA in Sociology.
 
 
 
