@@ -9,7 +9,7 @@ I'm a **sociologist and computational social scientist**, currently a **PhD Stud
 
 
 
-🌐 [Website & blog](https://deneken.me) · ✉️ m.deneken@uc.cl · 🤖 [Lab + AI ](https://wwww.methodolab.com) 
+🌐 [Website & blog](https://deneken.me) · ✉️ m.deneken@uc.cl · 🤖 [Lab + AI ](https://methodolab.com/) 
 
 ---
 
