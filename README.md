@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=matdknu&style=flat-square&theme=tokyonight)
 
 [![Website](https://img.shields.io/badge/deneken.me-1F2933.svg?style=flat&logo=quarto&logoColor=white)](https://deneken.me)
-[![Email](https://img.shields.io/badge/m.deneken@uc.cl-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:m.deneken@uc.cl)
+[![Email](https://img.shields.io/badge/m.deneken@uc.cl-D14836.svg?style=flat&logo=outlook&logoColor=white)](mailto:m.deneken@uc.cl)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 
 I'm a **sociologist and computational social scientist**, currently a **PhD Student in Computational Social Science at the London School of Economics (LSE)**. 
