@@ -29,14 +29,6 @@ I am trained in both Sociology (BA, MA) and Data Science (MSc), with research in
 
 - Large language models for annotation and framing detection
 - Empirical calibration and validation of agent-based models
-
----
-
-💬 **Ask me about** agent-based modelling · text as data & NLP · political discourse · causal inference · longitudinal survey design 
-
-📫 **Reach me at** m.deneken@uc.cl
-
-
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matdknu&theme=tokyonight)
