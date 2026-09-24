@@ -5,7 +5,7 @@ I'm a **sociologist and computational social scientist**, currently a **PhD Stud
 
 I am trained in both Sociology (BA, MA) and Data Science (MSc), with research interests at the intersection of the two.
 
-🌐 [Website & blog](https://deneken.me) · ✉️ m.j.deneken-uribe@lse.ac.uk · 🤖 [Lab + AI](https://methodolab.com/) 
+🌐 [Website & blog](https://deneken.me) · ✉️ denekenu@lse.ac.uk · 🤖 [Lab + AI](https://methodolab.com/) 
 
 ---
 
