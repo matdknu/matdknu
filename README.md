@@ -17,7 +17,6 @@ I am trained in both Sociology (BA, MA) and Data Science (MSc), with research in
   <img alt="Stata" src="https://img.shields.io/badge/Stata-1A5F7A?style=for-the-badge&logo=stata&logoColor=white" />
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white" />
   <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-1F77B4?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-6B8E23?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
